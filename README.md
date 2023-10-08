@@ -6,6 +6,9 @@ We will use a decision tree to examine a dataset about fungi, extracted from the
 **Library needs to run**
 Open cmd to install library:
 pip install pandas
+
+
+
 **How to run**
 You can run file Mushroom.ipynb in google collab
 Use cmd to run file Mushroom.py.
