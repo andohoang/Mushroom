@@ -10,5 +10,4 @@ pip install pandas
 
 
 **How to run**
-You can run file Mushroom.ipynb in google collab
 Use cmd to run file Mushroom.py.
